@@ -10,7 +10,7 @@ minifier documentation
 
     *2. Go to your project folder(web) then run:*
 
-    >npm install gulp.
+    >npm install gulp
     
     *3. Verify the installation by typing:*
 
