@@ -25,3 +25,5 @@ minifier documentation
     >gulp
 
     *and wait until the execution is completed!*
+    
+    ![](minify/images/minify.png)
